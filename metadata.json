@@ -1,0 +1,5 @@
+{
+  "name": "Figmini Design",
+  "description": "Um clone simplificado do Figma com assistência de IA Gemini para geração de conteúdo e estilos.",
+  "requestFramePermissions": []
+}
